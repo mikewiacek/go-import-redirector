@@ -1,5 +1,5 @@
-application: m8k-in-redirector
-version: v1
+# application: m8k-in-redirector
+# version: v1
 runtime: go
 api_version: go1
 
